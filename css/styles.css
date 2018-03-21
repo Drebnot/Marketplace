@@ -1,0 +1,6 @@
+body {
+  height: 800px;
+  background:
+    linear-gradient(to right, #68a1ff, #2263cc);
+    color: white;
+}
